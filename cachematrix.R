@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## cachematrix.R
+## 1234-marc ProgrammingAssignment2 - R-Programming -Coursera
+## Put comments here that give an overall description of what your functions do
 
 ## The function makeCacheMatrix below creates a list containing 4 functions:
 ## setm -> setm set the values of the matrix, getm gets the values of te matrix
@@ -38,7 +39,7 @@ cacheSolve <- function(x, ...) {
 
 
 
-## Example:
+## Examples:
 
 ##> m <- makeCacheMatrix(rbind(c(1, -1/2), c(-1/2, 1)))
 
